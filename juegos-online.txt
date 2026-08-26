@@ -1,45 +1,27 @@
 ! ==========================================
-! AULA - BLOQUEO DE JUEGOS ONLINE
+! AULA - JUEGOS ONLINE Y PORTALES DE JUEGOS
 ! ==========================================
 
-! Roblox
-||roblox.com^
-||www.roblox.com^
-||rbxcdn.com^
-||robloxcdn.com^
-
-! Minecraft
-||minecraft.net^
-||www.minecraft.net^
-||minecraftservices.com^
-||minecraftprivacymicrosoft.com^
-
-! Fortnite / Epic Games
-||fortnite.com^
-||epicgames.com^
-||epicgames.dev^
-
-! Steam
-||steampowered.com^
-||steamcommunity.com^
-||steamstatic.com^
-||store.steampowered.com^
+! ---------- PORTALES PRINCIPALES ----------
 
 ! Poki
 ||poki.com^
-||mystery-game-tile.poki.io^
+||poki.io^
+
+! Playhop
+||playhop.com^
 
 ! CrazyGames
 ||crazygames.com^
-
-! Y8
-||y8.com^
 
 ! Friv
 ||friv.com^
 
 ! Coolmath Games
 ||coolmathgames.com^
+
+! Y8
+||y8.com^
 
 ! Miniclip
 ||miniclip.com^
@@ -59,84 +41,75 @@
 ! Kongregate
 ||kongregate.com^
 
-! A10
-||a10.com^
+! Hooda Math
+||hoodamath.com^
 
 ! GameMonetize
 ||gamemonetize.com^
 
-! Playhop
-||playhop.com^
+! GameDistribution
+||gamedistribution.com^
 
-! Yandex Games
-||yandex.ru/games^
+! itch.io - juegos en navegador
+||itch.io^
 
-! Geometry Dash y juegos relacionados
-||geometrydash.com^
-||geometrydash.io^
-||geometrydashlite.com^
+! ---------- OTROS PORTALES ----------
 
-! Stumble Guys
-||stumbleguys.com^
-||www.stumbleguys.com^
-||api.stumbleguys.com^
-||localization2.stumbleguys.com^
+! A10
+||a10.com^
 
-! Eaglecraft / Minecraft en navegador
-||eaglercraft.org^
-||eaglercraft.com^
-||eaglercraft.ru^
-||eaglercraft.ir^
-||iframe.eaglercraft.org^
+! Game Jolt
+||gamejolt.com^
 
-! 1v1.LOL
-||1v1.lol^
+! Newgrounds
+||newgrounds.com^
 
-! Shell Shockers
-||shellshock.io^
+! Gameflare
+||gameflare.com^
 
-! Krunker
+! Gamezhero
+||gamezhero.com^
+
+! PrimaryGames
+||primarygames.com^
+
+! Silvergames
+||silvergames.com^
+
+! Lagged
+||lagged.com^
+
+! Crazy Games regional / variantes
+||crazygames.com.br^
+
+! ---------- JUEGOS .IO POPULARES ----------
+
+||agar.io^
+||slither.io^
+||diep.io^
+||hole.io^
 ||krunker.io^
-
-! Paper.io
-||paper-io.com^
+||shellshock.io^
+||1v1.lol^
 ||paper.io^
 
-! Agar.io
-||agar.io^
+! ---------- JUEGOS DE NAVEGADOR ----------
 
-! Slither.io
-||slither.io^
+! Eaglercraft
+||eaglercraft.org^
+||eaglercraft.com^
+||eaglercraft.ir^
+||eaglercraft.ru^
 
-! Diep.io
-||diep.io^
-
-! Hole.io
-||hole.io^
-
-! Brawl Stars
-||brawlstars.com^
-
-! Chess.com juegos
-||chess.com^
-
-! Lichess
-||lichess.org^
-
-! Tetris
-||tetris.com^
+! Geometry Dash
+||geometrydash.io^
+||geometrydashlite.com^
 
 ! Slope
 ||slopegame.io^
 
-! Run 3
+! Run
 ||run3.io^
 
 ! Cookie Clicker
 ||orteil.dashnet.org^
-
-! FNF / Friday Night Funkin
-||fridaynightfunkin.io^
-
-! Scratch juegos públicos
-||scratch.mit.edu/projects^
