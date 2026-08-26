@@ -162,3 +162,48 @@
 ||battle.net^
 ||blizzard.com^
 ||blz-contentstack.com^
+
+! ==========================================
+! MUSICA Y STREAMING DE AUDIO
+! ==========================================
+
+! ---------- YOUTUBE MUSIC ----------
+||music.youtube.com^
+
+! ---------- SPOTIFY ----------
+||spotify.com^
+||scdn.co^
+||spotifycdn.com^
+
+! ---------- DEEZER ----------
+||deezer.com^
+||dzcdn.net^
+
+! ---------- SOUND CLOUD ----------
+||soundcloud.com^
+||sndcdn.com^
+
+! ---------- APPLE MUSIC ----------
+||music.apple.com^
+
+! ---------- TIDAL ----------
+||tidal.com^
+
+! ---------- AMAZON MUSIC ----------
+||music.amazon.com^
+
+! ---------- AUDIOMACK ----------
+||audiomack.com^
+
+! ---------- BANDCAMP ----------
+||bandcamp.com^
+||bandcampdaily.com^
+
+! ---------- MIXCLOUD ----------
+||mixcloud.com^
+
+! ---------- LAST.FM ----------
+||last.fm^
+
+! ---------- JIOSAAVN ----------
+||jiosaavn.com^
