@@ -1,115 +1,261 @@
 ! ==========================================
 ! AULA - JUEGOS ONLINE Y PORTALES DE JUEGOS
+! Bloqueo reforzado para AdGuard DNS
 ! ==========================================
 
-! ---------- PORTALES PRINCIPALES ----------
 
-! Poki
+! ==========================================
+! PORTALES PRINCIPALES DE JUEGOS
+! ==========================================
+
+! ---------- POKI ----------
 ||poki.com^
 ||poki.io^
 
-! Playhop
+! ---------- PLAYHOP ----------
 ||playhop.com^
 
-! CrazyGames
+! ---------- CRAZYGAMES ----------
 ||crazygames.com^
-
-! Friv
-||friv.com^
-
-! Coolmath Games
-||coolmathgames.com^
-
-! Y8
-||y8.com^
-
-! Miniclip
-||miniclip.com^
-
-! Kizi
-||kizi.com^
-
-! GamePix
-||gamepix.com^
-
-! Armor Games
-||armorgames.com^
-
-! Addicting Games
-||addictinggames.com^
-
-! Kongregate
-||kongregate.com^
-
-! Hooda Math
-||hoodamath.com^
-
-! GameMonetize
-||gamemonetize.com^
-
-! GameDistribution
-||gamedistribution.com^
-
-! itch.io - juegos en navegador
-||itch.io^
-
-! ---------- OTROS PORTALES ----------
-
-! A10
-||a10.com^
-
-! Game Jolt
-||gamejolt.com^
-
-! Newgrounds
-||newgrounds.com^
-
-! Gameflare
-||gameflare.com^
-
-! Gamezhero
-||gamezhero.com^
-
-! PrimaryGames
-||primarygames.com^
-
-! Silvergames
-||silvergames.com^
-
-! Lagged
-||lagged.com^
-
-! Crazy Games regional / variantes
 ||crazygames.com.br^
 
-! ---------- JUEGOS .IO POPULARES ----------
+! ---------- FRIV ----------
+||friv.com^
+||friv4school.com^
+||frivclassic.com^
 
+! ---------- COOLMATH GAMES ----------
+||coolmathgames.com^
+
+! ---------- Y8 ----------
+||y8.com^
+
+! ---------- MINICLIP ----------
+||miniclip.com^
+
+! ---------- KIZI ----------
+||kizi.com^
+
+! ---------- GAMEPIX ----------
+||gamepix.com^
+
+! ---------- ARMOR GAMES ----------
+||armorgames.com^
+
+! ---------- ADDICTING GAMES ----------
+||addictinggames.com^
+
+! ---------- KONGREGATE ----------
+||kongregate.com^
+
+! ---------- HOODA MATH ----------
+||hoodamath.com^
+
+! ---------- GAMEMONETIZE ----------
+||gamemonetize.com^
+
+! ---------- GAMEDISTRIBUTION ----------
+||gamedistribution.com^
+
+! ---------- ITCH.IO ----------
+||itch.io^
+
+! ---------- A10 ----------
+||a10.com^
+
+! ---------- GAME JOLT ----------
+||gamejolt.com^
+
+! ---------- NEWGROUNDS ----------
+||newgrounds.com^
+
+! ---------- GAMEFLARE ----------
+||gameflare.com^
+
+! ---------- GAMEZHERO ----------
+||gamezhero.com^
+
+! ---------- PRIMARY GAMES ----------
+||primarygames.com^
+
+! ---------- SILVERGAMES ----------
+||silvergames.com^
+
+! ---------- LAGGED ----------
+||lagged.com^
+
+! ---------- PACOGAMES ----------
+||pacogames.com^
+
+! ---------- CRAZYMONKEYGAMES ----------
+||crazymonkeygames.com^
+
+! ---------- FOG ----------
+||freeonlinegames.com^
+
+! ---------- TWO PLAYER GAMES ----------
+||twoplayergames.org^
+
+! ---------- UNBLOCKED GAMES ----------
+||unblockedgames.com^
+
+! ---------- UBG ----------
+||ubg365.github.io^
+||ubg100.github.io^
+
+
+! ==========================================
+! OTROS PORTALES POPULARES
+! ==========================================
+
+! ---------- YESGAMES ----------
+||yesgames.com^
+
+! ---------- GAMEPOST ----------
+||gamepost.com^
+
+! ---------- PLAY123 ----------
+||play123.com^
+
+! ---------- ONLINEGAMES.IO ----------
+||onlinegames.io^
+
+! ---------- GAMES.GG ----------
+||games.gg^
+
+! ---------- GAMESHERO ----------
+||gameshero.com^
+
+! ---------- FUNNYGAMES ----------
+||funnygames.org^
+
+! ---------- GAMEBOSS ----------
+||gameboss.com^
+
+! ---------- GAMES44 ----------
+||games44.com^
+
+! ---------- PLAYMINI GAMES ----------
+||playminigames.net^
+
+! ---------- CRAZY GAMES REGIONAL ----------
+||crazygames.pl^
+||crazygames.fr^
+
+
+! ==========================================
+! JUEGOS .IO POPULARES
+! ==========================================
+
+! ---------- CLÁSICOS ----------
 ||agar.io^
 ||slither.io^
 ||diep.io^
 ||hole.io^
+||paper-io.com^
+
+! ---------- SHOOTERS / ACCIÓN ----------
 ||krunker.io^
 ||shellshock.io^
+||shellshockers.io^
+||venge.io^
+||ev.io^
+||voxiom.io^
+||kour.io^
+||ninja.io^
+||swordbattle.io^
+
+! ---------- CARRERAS / COMPETICIÓN ----------
 ||1v1.lol^
-||paper.io^
+||smashkarts.io^
+||lolbeans.io^
 
-! ---------- JUEGOS DE NAVEGADOR ----------
+! ---------- SUPERVIVENCIA / BATTLE ROYALE ----------
+||surviv.io^
+||survev.io^
+||zombsroyale.io^
+||starve.io^
+||starblast.io^
+||zombs.io^
 
-! Eaglercraft
+! ---------- SANDBOX / CONSTRUCCIÓN ----------
+||bloxd.io^
 ||eaglercraft.org^
 ||eaglercraft.com^
 ||eaglercraft.ir^
 ||eaglercraft.ru^
 
-! Geometry Dash
+! ---------- OTROS .IO POPULARES ----------
+||bonk.io^
+||wormate.io^
+||moomoo.io^
+||evowars.io^
+||taming.io^
+||minigiants.io^
+||spaceguard.io^
+||topguns.io^
+||lolshot.io^
+||superhex.io^
+||defly.io^
+||shootup.io^
+||hordes.io^
+||starblast.io^
+||wings.io^
+||skribbl.io^
+||deeeep.io^
+||justfall.lol^
+
+
+! ==========================================
+! JUEGOS DE NAVEGADOR ESPECÍFICOS
+! ==========================================
+
+! ---------- GEOMETRY DASH ----------
 ||geometrydash.io^
 ||geometrydashlite.com^
 
-! Slope
+! ---------- SLOPE ----------
 ||slopegame.io^
+||slope3.com^
 
-! Run
+! ---------- RUN ----------
 ||run3.io^
 
-! Cookie Clicker
+! ---------- COOKIE CLICKER ----------
 ||orteil.dashnet.org^
+
+! ---------- WORDLE / VARIANTES DE JUEGOS ----------
+||wordleunlimited.org^
+||wordlegame.org^
+
+! ---------- LITTLE ALCHEMY ----------
+||littlealchemy2.com^
+
+! ---------- TETRIS ----------
+||tetris.com^
+
+! ---------- SNAKE ----------
+||playsnake.org^
+
+
+! ==========================================
+! JUEGOS HTML5 Y PLATAFORMAS DE DISTRIBUCIÓN
+! ==========================================
+
+! ---------- GAME ARTER ----------
+||gamearter.com^
+
+! ---------- GAME MONETIZE ----------
+||gamemonetize.co^
+
+! ---------- GAME PIX CDN / SERVICIOS ----------
+||gamepix.com^
+
+! ---------- GAME DISTRIBUTION CDN ----------
+||gamedistribution.com^
+
+! ---------- HTML5 GAMES ----------
+||html5games.com^
+
+! ---------- WEB GAMES ----------
+||webgames.io^
