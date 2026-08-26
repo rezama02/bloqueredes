@@ -207,3 +207,11 @@
 
 ! ---------- JIOSAAVN ----------
 ||jiosaavn.com^
+! ---------- YOUTUBE ----------
+||youtube.com^
+||youtu.be^
+||youtube-nocookie.com^
+||ytimg.com^
+||googlevideo.com^
+||youtubei.googleapis.com^
+||yt3.ggpht.com^
