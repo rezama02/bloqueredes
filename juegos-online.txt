@@ -1,0 +1,142 @@
+! ==========================================
+! AULA - BLOQUEO DE JUEGOS ONLINE
+! ==========================================
+
+! Roblox
+||roblox.com^
+||www.roblox.com^
+||rbxcdn.com^
+||robloxcdn.com^
+
+! Minecraft
+||minecraft.net^
+||www.minecraft.net^
+||minecraftservices.com^
+||minecraftprivacymicrosoft.com^
+
+! Fortnite / Epic Games
+||fortnite.com^
+||epicgames.com^
+||epicgames.dev^
+
+! Steam
+||steampowered.com^
+||steamcommunity.com^
+||steamstatic.com^
+||store.steampowered.com^
+
+! Poki
+||poki.com^
+||mystery-game-tile.poki.io^
+
+! CrazyGames
+||crazygames.com^
+
+! Y8
+||y8.com^
+
+! Friv
+||friv.com^
+
+! Coolmath Games
+||coolmathgames.com^
+
+! Miniclip
+||miniclip.com^
+
+! Kizi
+||kizi.com^
+
+! GamePix
+||gamepix.com^
+
+! Armor Games
+||armorgames.com^
+
+! Addicting Games
+||addictinggames.com^
+
+! Kongregate
+||kongregate.com^
+
+! A10
+||a10.com^
+
+! GameMonetize
+||gamemonetize.com^
+
+! Playhop
+||playhop.com^
+
+! Yandex Games
+||yandex.ru/games^
+
+! Geometry Dash y juegos relacionados
+||geometrydash.com^
+||geometrydash.io^
+||geometrydashlite.com^
+
+! Stumble Guys
+||stumbleguys.com^
+||www.stumbleguys.com^
+||api.stumbleguys.com^
+||localization2.stumbleguys.com^
+
+! Eaglecraft / Minecraft en navegador
+||eaglercraft.org^
+||eaglercraft.com^
+||eaglercraft.ru^
+||eaglercraft.ir^
+||iframe.eaglercraft.org^
+
+! 1v1.LOL
+||1v1.lol^
+
+! Shell Shockers
+||shellshock.io^
+
+! Krunker
+||krunker.io^
+
+! Paper.io
+||paper-io.com^
+||paper.io^
+
+! Agar.io
+||agar.io^
+
+! Slither.io
+||slither.io^
+
+! Diep.io
+||diep.io^
+
+! Hole.io
+||hole.io^
+
+! Brawl Stars
+||brawlstars.com^
+
+! Chess.com juegos
+||chess.com^
+
+! Lichess
+||lichess.org^
+
+! Tetris
+||tetris.com^
+
+! Slope
+||slopegame.io^
+
+! Run 3
+||run3.io^
+
+! Cookie Clicker
+||orteil.dashnet.org^
+
+! FNF / Friday Night Funkin
+||fridaynightfunkin.io^
+
+! Scratch juegos públicos
+||scratch.mit.edu/projects^
