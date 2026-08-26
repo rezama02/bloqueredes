@@ -1,9 +1,75 @@
+! ==========================================
+! AULA - REDES SOCIALES Y VIDEOS
+! ==========================================
+
+! Facebook
 ||facebook.com^
+||www.facebook.com^
+||graph.facebook.com^
+||edge-mqtt.facebook.com^
+||z-m-gateway.facebook.com^
+||chat-e2ee-mini.facebook.com^
+||fb.com^
+||fbcdn.net^
+
+! Instagram
 ||instagram.com^
+||www.instagram.com^
+||threads.instagram.com^
+||graph.instagram.com^
+||gateway.instagram.com^
+||cdninstagram.com^
+
+! Threads
+||threads.net^
+
+! TikTok
 ||tiktok.com^
+||www.tiktok.com^
+||tiktokv.com^
+||tiktokcdn.com^
+||webcast.tiktok.com^
+
+! X / Twitter
 ||x.com^
 ||twitter.com^
-||threads.net^
+||www.twitter.com^
+||twimg.com^
+
+! WhatsApp Web
+||web.whatsapp.com^
+
+! Discord
+||discord.com^
+||discordapp.com^
+||discordapp.net^
+
+! Snapchat
+||snapchat.com^
+||snap.com^
+
+! Pinterest
+||pinterest.com^
+||pinimg.com^
+
+! Reddit
+||reddit.com^
+
+! YouTube
 ||youtube.com^
+||www.youtube.com^
 ||youtu.be^
+||music.youtube.com^
+||youtube-nocookie.com^
+
+! Twitch
 ||twitch.tv^
+
+! Vimeo
+||vimeo.com^
+
+! Dailymotion
+||dailymotion.com^
+
+! Kick
+||kick.com^
