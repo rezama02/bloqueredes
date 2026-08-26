@@ -1,99 +1,164 @@
 ! ==========================================
-! AULA - REDES SOCIALES, VIDEOS Y JUEGOS PESADOS
+! AULA - BLOQUEO TOTAL DE REDES SOCIALES,
+! VIDEOS / STREAMING Y JUEGOS PESADOS
 ! ==========================================
 
-! ---------- REDES SOCIALES ----------
 
-! Facebook
+! ==========================================
+! REDES SOCIALES
+! ==========================================
+
+! ---------- FACEBOOK / MESSENGER ----------
 ||facebook.com^
 ||fb.com^
 ||fbcdn.net^
+||fbsbx.com^
+||messenger.com^
 
-! Instagram
+
+! ---------- INSTAGRAM ----------
 ||instagram.com^
 ||cdninstagram.com^
-||threads.instagram.com^
 ||graph.instagram.com^
 
-! Threads
+
+! ---------- THREADS ----------
 ||threads.net^
 
-! TikTok
+
+! ---------- TIKTOK ----------
 ||tiktok.com^
 ||tiktokv.com^
 ||tiktokcdn.com^
+||ibytedtos.com^
+||byteoversea.com^
+||musical.ly^
 ||webcast.tiktok.com^
 
-! X / Twitter
+
+! ---------- X / TWITTER ----------
 ||x.com^
 ||twitter.com^
 ||twimg.com^
+||ads-twitter.com^
 
-! WhatsApp Web
+
+! ---------- WHATSAPP WEB ----------
 ||web.whatsapp.com^
 
-! Discord
+
+! ---------- DISCORD ----------
 ||discord.com^
 ||discordapp.com^
 ||discordapp.net^
+||discordcdn.com^
 
-! Snapchat
+
+! ---------- SNAPCHAT ----------
 ||snapchat.com^
 ||snap.com^
+||sc-cdn.net^
 
-! Pinterest
+
+! ---------- PINTEREST ----------
 ||pinterest.com^
 ||pinimg.com^
 
-! Reddit
+
+! ---------- REDDIT ----------
 ||reddit.com^
+||redd.it^
+||redditmedia.com^
+||redditstatic.com^
 
 
-! ---------- VIDEOS Y STREAMING ----------
+! ==========================================
+! VIDEOS Y STREAMING
+! ==========================================
 
-! YouTube
+! ---------- YOUTUBE ----------
 ||youtube.com^
 ||youtu.be^
 ||youtube-nocookie.com^
-||music.youtube.com^
+||ytimg.com^
+||googlevideo.com^
+||youtubei.googleapis.com^
+||yt3.ggpht.com^
 
-! Twitch
+
+! ---------- TWITCH ----------
 ||twitch.tv^
 ||ttvnw.net^
+||jtvnw.net^
+||twitchcdn.net^
 
-! Vimeo
+
+! ---------- VIMEO ----------
 ||vimeo.com^
+||vimeocdn.com^
 
-! Dailymotion
+
+! ---------- DAILYMOTION ----------
 ||dailymotion.com^
+||dmcdn.net^
 
-! Kick
+
+! ---------- KICK ----------
 ||kick.com^
+||kickcdn.com^
 
 
-! ---------- JUEGOS PESADOS ----------
+! ==========================================
+! JUEGOS PESADOS Y PLATAFORMAS DE JUEGOS
+! ==========================================
 
-! Roblox
+! ---------- ROBLOX ----------
 ||roblox.com^
 ||rbxcdn.com^
 ||robloxcdn.com^
+||rbx.com^
 
-! Stumble Guys
+
+! ---------- STUMBLE GUYS ----------
 ||stumbleguys.com^
-||www.stumbleguys.com^
 ||api.stumbleguys.com^
 ||localization2.stumbleguys.com^
 
-! Minecraft
+
+! ---------- MINECRAFT ----------
 ||minecraft.net^
 ||minecraftservices.com^
 
-! Fortnite / Epic Games
+
+! ---------- FORTNITE / EPIC GAMES ----------
 ||fortnite.com^
 ||epicgames.com^
 ||epicgames.dev^
+||unrealengine.com^
+||fortnitecdn.com^
 
-! Steam
+
+! ---------- STEAM ----------
 ||steampowered.com^
 ||steamcommunity.com^
 ||steamstatic.com^
+||steamcontent.com^
+||steamserver.net^
+
+
+! ---------- RIOT GAMES / LEAGUE OF LEGENDS ----------
+||riotgames.com^
+||leagueoflegends.com^
+||riotcdn.net^
+
+
+! ---------- EA GAMES ----------
+||ea.com^
+||easports.com^
+||origin.com^
+
+
+! ---------- BATTLE.NET / BLIZZARD ----------
+||battle.net^
+||blizzard.com^
+||blz-contentstack.com^
