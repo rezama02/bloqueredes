@@ -1,0 +1,217 @@
+! ==========================================
+! AULA - BLOQUEO TOTAL DE REDES SOCIALES,
+! VIDEOS / STREAMING Y JUEGOS PESADOS
+! ==========================================
+
+
+! ==========================================
+! REDES SOCIALES
+! ==========================================
+
+! ---------- FACEBOOK / MESSENGER ----------
+||facebook.com^
+||fb.com^
+||fbcdn.net^
+||fbsbx.com^
+||messenger.com^
+
+
+! ---------- INSTAGRAM ----------
+||instagram.com^
+||cdninstagram.com^
+||graph.instagram.com^
+
+
+! ---------- THREADS ----------
+||threads.net^
+
+
+! ---------- TIKTOK ----------
+||tiktok.com^
+||tiktokv.com^
+||tiktokcdn.com^
+||ibytedtos.com^
+||byteoversea.com^
+||musical.ly^
+||webcast.tiktok.com^
+
+
+! ---------- X / TWITTER ----------
+||x.com^
+||twitter.com^
+||twimg.com^
+||ads-twitter.com^
+
+
+! ---------- WHATSAPP WEB ----------
+||web.whatsapp.com^
+
+
+! ---------- DISCORD ----------
+||discord.com^
+||discordapp.com^
+||discordapp.net^
+||discordcdn.com^
+
+
+! ---------- SNAPCHAT ----------
+||snapchat.com^
+||snap.com^
+||sc-cdn.net^
+
+
+! ---------- PINTEREST ----------
+||pinterest.com^
+||pinimg.com^
+
+
+! ---------- REDDIT ----------
+||reddit.com^
+||redd.it^
+||redditmedia.com^
+||redditstatic.com^
+
+
+! ==========================================
+! VIDEOS Y STREAMING
+! ==========================================
+
+! ---------- YOUTUBE ----------
+||youtube.com^
+||youtu.be^
+||youtube-nocookie.com^
+||ytimg.com^
+||googlevideo.com^
+||youtubei.googleapis.com^
+||yt3.ggpht.com^
+
+
+! ---------- TWITCH ----------
+||twitch.tv^
+||ttvnw.net^
+||jtvnw.net^
+||twitchcdn.net^
+
+
+! ---------- VIMEO ----------
+||vimeo.com^
+||vimeocdn.com^
+
+
+! ---------- DAILYMOTION ----------
+||dailymotion.com^
+||dmcdn.net^
+
+
+! ---------- KICK ----------
+||kick.com^
+||kickcdn.com^
+
+
+! ==========================================
+! JUEGOS PESADOS Y PLATAFORMAS DE JUEGOS
+! ==========================================
+
+! ---------- ROBLOX ----------
+||roblox.com^
+||rbxcdn.com^
+||robloxcdn.com^
+||rbx.com^
+
+
+! ---------- STUMBLE GUYS ----------
+||stumbleguys.com^
+||api.stumbleguys.com^
+||localization2.stumbleguys.com^
+
+
+! ---------- MINECRAFT ----------
+||minecraft.net^
+||minecraftservices.com^
+
+
+! ---------- FORTNITE / EPIC GAMES ----------
+||fortnite.com^
+||epicgames.com^
+||epicgames.dev^
+||unrealengine.com^
+||fortnitecdn.com^
+
+
+! ---------- STEAM ----------
+||steampowered.com^
+||steamcommunity.com^
+||steamstatic.com^
+||steamcontent.com^
+||steamserver.net^
+
+
+! ---------- RIOT GAMES / LEAGUE OF LEGENDS ----------
+||riotgames.com^
+||leagueoflegends.com^
+||riotcdn.net^
+
+
+! ---------- EA GAMES ----------
+||ea.com^
+||easports.com^
+||origin.com^
+
+
+! ---------- BATTLE.NET / BLIZZARD ----------
+||battle.net^
+||blizzard.com^
+||blz-contentstack.com^
+
+! ==========================================
+! MUSICA Y STREAMING DE AUDIO
+! ==========================================
+
+! ---------- YOUTUBE MUSIC ----------
+||music.youtube.com^
+
+! ---------- SPOTIFY ----------
+||spotify.com^
+||scdn.co^
+||spotifycdn.com^
+
+! ---------- DEEZER ----------
+||deezer.com^
+||dzcdn.net^
+
+! ---------- SOUND CLOUD ----------
+||soundcloud.com^
+||sndcdn.com^
+
+! ---------- APPLE MUSIC ----------
+||music.apple.com^
+
+! ---------- TIDAL ----------
+||tidal.com^
+
+! ---------- AMAZON MUSIC ----------
+||music.amazon.com^
+
+! ---------- AUDIOMACK ----------
+||audiomack.com^
+
+! ---------- BANDCAMP ----------
+||bandcamp.com^
+||bandcampdaily.com^
+
+! ---------- MIXCLOUD ----------
+||mixcloud.com^
+
+! ---------- LAST.FM ----------
+||last.fm^
+
+! ---------- JIOSAAVN ----------
+||jiosaavn.com^
+! ---------- YOUTUBE ----------
+||youtube.com^
+||youtu.be^
+||youtube-nocookie.com^
+||ytimg.com^
+||googlevideo.com^
+||youtubei.googleapis.com^
+||yt3.ggpht.com^
