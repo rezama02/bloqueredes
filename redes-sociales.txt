@@ -1,0 +1,9 @@
+||facebook.com^
+||instagram.com^
+||tiktok.com^
+||x.com^
+||twitter.com^
+||threads.net^
+||youtube.com^
+||youtu.be^
+||twitch.tv^
