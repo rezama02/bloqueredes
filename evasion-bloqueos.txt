@@ -1,0 +1,106 @@
+! ==========================================
+! AULA - EVASION DE BLOQUEOS
+! PROXIES WEB Y SERVICIOS DE DESBLOQUEO
+! ==========================================
+
+
+! ==========================================
+! PROXIES WEB POPULARES
+! ==========================================
+
+! ---------- CROXYPROXY ----------
+||croxyproxy.com^
+||croxy.org^
+||croxy.network^
+
+! ---------- PROXYSITE ----------
+||proxysite.com^
+||croxy.com^
+
+! ---------- KPROXY ----------
+||kproxy.com^
+
+! ---------- HIDE.ME WEB PROXY ----------
+||hide.me^
+
+! ---------- HIDESTER ----------
+||hidester.com^
+
+! ---------- PROXYIUM ----------
+||proxyium.com^
+
+! ---------- 4EVERPROXY ----------
+||4everproxy.com^
+
+! ---------- WHOER ----------
+||whoer.net^
+
+! ---------- PROXFREE ----------
+||proxfree.com^
+
+! ---------- FILTERBYPASS ----------
+||filterbypass.me^
+
+! ---------- BLOCKAWAY ----------
+||blockaway.net^
+
+! ---------- HYPERWEB ----------
+||hyperwebproxy.com^
+
+! ---------- VPNBOOK WEB PROXY ----------
+||vpnbook.com^
+
+! ---------- UNBLOCKWEB ----------
+||unblockweb.com^
+
+! ---------- UNBLOCKIT ----------
+||unblockit.pages.dev^
+
+
+! ==========================================
+! SERVICIOS DE PROXY / UNBLOCKER
+! ==========================================
+
+! ---------- ANONYMOUS PROXY ----------
+||anonymouse.org^
+
+! ---------- MEGA PROXY ----------
+||megaproxy.com^
+
+! ---------- PROXYBAY ----------
+||proxybay.one^
+
+! ---------- PROXYBROWSER ----------
+||proxybrowser.com^
+
+! ---------- UNBLOCK SITES ----------
+||unblocksites.com^
+
+! ---------- WEBPROXY ----------
+||webproxy.to^
+
+! ---------- FREE WEB PROXY ----------
+||freewebproxy.com^
+
+! ---------- HPROXY ----------
+||hproxy.com^
+
+! ---------- ANYPROXY ----------
+||anyproxy.site^
+
+
+! ==========================================
+! BUSCADORES DE PROXY CONOCIDOS
+! ==========================================
+
+! ---------- PROXY LISTS ----------
+||free-proxy-list.net^
+
+! ---------- SSL PROXIES ----------
+||sslproxies.org^
+
+! ---------- PROXY SCRAPE ----------
+||proxyscrape.com^
+
+! ---------- SPYS.ONE ----------
+||spys.one^
