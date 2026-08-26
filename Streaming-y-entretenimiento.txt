@@ -1,0 +1,111 @@
+! ==========================================
+! STREAMING - PELICULAS, SERIES Y TV
+! ==========================================
+
+! ---------- NETFLIX ----------
+||netflix.com^
+||nflxvideo.net^
+||nflximg.net^
+||nflximg.com^
+||nflxso.net^
+||nflxext.com^
+
+! ---------- AMAZON PRIME VIDEO ----------
+||primevideo.com^
+||amazonvideo.com^
+||aiv-cdn.net^
+||primevideo-cdn.com^
+
+! ---------- DISNEY+ ----------
+||disneyplus.com^
+||disney-plus.net^
+||disneypluscdn.com^
+||bamgrid.com^
+
+! ---------- HBO MAX / MAX ----------
+||max.com^
+||hbomax.com^
+||hbo.com^
+||hbomaxcdn.com^
+
+! ---------- HULU ----------
+||hulu.com^
+||huluim.com^
+
+! ---------- APPLE TV ----------
+||tv.apple.com^
+
+! ---------- PARAMOUNT+ ----------
+||paramountplus.com^
+||paramount.com^
+||cbs.com^
+
+! ---------- PEACOCK ----------
+||peacocktv.com^
+||peacock.com^
+
+! ---------- CRUNCHYROLL ----------
+||crunchyroll.com^
+||crunchyrollcdn.com^
+
+! ---------- MUBI ----------
+||mubi.com^
+
+! ---------- ROKU ----------
+||therokuchannel.roku.com^
+||roku.com^
+
+! ---------- TUBI ----------
+||tubitv.com^
+||tubi.io^
+
+! ---------- PLUTO TV ----------
+||pluto.tv^
+||plutotv.net^
+
+! ---------- PLEX ----------
+||plex.tv^
+
+! ---------- RAKUTEN TV ----------
+||rakuten.tv^
+
+! ---------- VIX ----------
+||vix.com^
+
+! ---------- DGO / DIRECTV STREAM ----------
+||directvgo.com^
+||directvstream.com^
+
+! ---------- STAR+ / STAR ----------
+||starplus.com^
+||star.com^
+
+! ---------- DAZN ----------
+||dazn.com^
+
+! ---------- FLOSPORTS ----------
+||flosports.tv^
+
+! ---------- FUBO ----------
+||fubo.tv^
+
+! ---------- SLING TV ----------
+||sling.com^
+
+! ---------- PHILO ----------
+||philo.com^
+
+! ---------- DISCOVERY+ ----------
+||discoveryplus.com^
+
+! ---------- AMC+ ----------
+||amcplus.com^
+
+! ---------- BRITBOX ----------
+||britbox.com^
+
+! ---------- ACORN TV ----------
+||acorn.tv^
+
+! ---------- CRACKLE ----------
+||crackle.com^
