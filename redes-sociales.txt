@@ -1,31 +1,25 @@
 ! ==========================================
-! AULA - REDES SOCIALES Y VIDEOS
+! AULA - REDES SOCIALES, VIDEOS Y JUEGOS PESADOS
 ! ==========================================
+
+! ---------- REDES SOCIALES ----------
 
 ! Facebook
 ||facebook.com^
-||www.facebook.com^
-||graph.facebook.com^
-||edge-mqtt.facebook.com^
-||z-m-gateway.facebook.com^
-||chat-e2ee-mini.facebook.com^
 ||fb.com^
 ||fbcdn.net^
 
 ! Instagram
 ||instagram.com^
-||www.instagram.com^
+||cdninstagram.com^
 ||threads.instagram.com^
 ||graph.instagram.com^
-||gateway.instagram.com^
-||cdninstagram.com^
 
 ! Threads
 ||threads.net^
 
 ! TikTok
 ||tiktok.com^
-||www.tiktok.com^
 ||tiktokv.com^
 ||tiktokcdn.com^
 ||webcast.tiktok.com^
@@ -33,7 +27,6 @@
 ! X / Twitter
 ||x.com^
 ||twitter.com^
-||www.twitter.com^
 ||twimg.com^
 
 ! WhatsApp Web
@@ -55,15 +48,18 @@
 ! Reddit
 ||reddit.com^
 
+
+! ---------- VIDEOS Y STREAMING ----------
+
 ! YouTube
 ||youtube.com^
-||www.youtube.com^
 ||youtu.be^
-||music.youtube.com^
 ||youtube-nocookie.com^
+||music.youtube.com^
 
 ! Twitch
 ||twitch.tv^
+||ttvnw.net^
 
 ! Vimeo
 ||vimeo.com^
@@ -73,3 +69,31 @@
 
 ! Kick
 ||kick.com^
+
+
+! ---------- JUEGOS PESADOS ----------
+
+! Roblox
+||roblox.com^
+||rbxcdn.com^
+||robloxcdn.com^
+
+! Stumble Guys
+||stumbleguys.com^
+||www.stumbleguys.com^
+||api.stumbleguys.com^
+||localization2.stumbleguys.com^
+
+! Minecraft
+||minecraft.net^
+||minecraftservices.com^
+
+! Fortnite / Epic Games
+||fortnite.com^
+||epicgames.com^
+||epicgames.dev^
+
+! Steam
+||steampowered.com^
+||steamcommunity.com^
+||steamstatic.com^
