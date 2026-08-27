@@ -1,0 +1,227 @@
+# ============================================================
+# 🚫 BLOQUEO TOTAL — VIDEO, MÚSICA, AUDIO Y STREAMING
+# AdGuard DNS — USER RULES
+# ============================================================
+
+
+# ============================================================
+# 1. YOUTUBE — BLOQUEO TOTAL Y AGRESIVO
+# ============================================================
+
+# Sitio principal y enlaces
+||youtube.com^
+||youtu.be^
+||youtube-nocookie.com^
+
+# YouTube Music
+||music.youtube.com^
+
+# APIs y servicios de YouTube
+||youtubei.googleapis.com^
+||youtube.googleapis.com^
+||youtubeembeddedplayer.googleapis.com^
+
+# ENTREGA DE VIDEO Y AUDIO — MUY IMPORTANTE
+||googlevideo.com^
+
+# Miniaturas, imágenes y recursos visuales
+||ytimg.com^
+||yt3.ggpht.com^
+
+# Servicios adicionales
+||youtubeeducation.com^
+
+
+# ============================================================
+# 2. SPOTIFY Y MÚSICA ONLINE
+# ============================================================
+
+# Spotify
+||spotify.com^
+||scdn.co^
+
+# SoundCloud
+||soundcloud.com^
+||sndcdn.com^
+
+# Deezer
+||deezer.com^
+
+# Tidal
+||tidal.com^
+
+# Pandora
+||pandora.com^
+
+# Audiomack
+||audiomack.com^
+
+# Bandcamp
+||bandcamp.com^
+
+# Apple Music
+||music.apple.com^
+
+# Amazon Music
+||music.amazon.com^
+
+# Last.fm
+||last.fm^
+
+# Otros servicios de música
+||jiosaavn.com^
+||gaana.com^
+||anghami.com^
+||napster.com^
+||qobuz.com^
+
+
+# ============================================================
+# 3. NETFLIX — BLOQUEO TOTAL
+# ============================================================
+
+||netflix.com^
+||nflxvideo.net^
+||nflximg.net^
+||nflxext.com^
+||nflxso.net^
+
+
+# ============================================================
+# 4. DISNEY+ — BLOQUEO TOTAL
+# ============================================================
+
+||disneyplus.com^
+||dssott.com^
+
+
+# ============================================================
+# 5. MAX / HBO
+# ============================================================
+
+||max.com^
+||hbomax.com^
+||hbo.com^
+
+
+# ============================================================
+# 6. AMAZON PRIME VIDEO
+# ============================================================
+
+||primevideo.com^
+||amazonvideo.com^
+
+
+# ============================================================
+# 7. HULU
+# ============================================================
+
+||hulu.com^
+
+
+# ============================================================
+# 8. VIDEO Y STREAMING GENERAL
+# ============================================================
+
+# Vimeo
+||vimeo.com^
+||vimeocdn.com^
+
+# Dailymotion
+||dailymotion.com^
+||dmcdn.net^
+
+# Bilibili
+||bilibili.com^
+||bilibili.tv^
+
+# Rumble
+||rumble.com^
+
+# Kick
+||kick.com^
+||kick-video.live^
+
+# Twitch
+||twitch.tv^
+||ttvnw.net^
+||jtvnw.net^
+
+
+# ============================================================
+# 9. RADIO ONLINE
+# ============================================================
+
+||tunein.com^
+||radio.net^
+||mytuner-radio.com^
+||radio.garden^
+||iheart.com^
+||iheartmedia.com^
+
+
+# ============================================================
+# 10. PODCASTS
+# ============================================================
+
+||castbox.fm^
+||podbean.com^
+||spreaker.com^
+||simplecast.com^
+||anchor.fm^
+||megaphone.fm^
+
+||podcasts.apple.com^
+||player.fm^
+||podimo.com^
+||pocketcasts.com^
+||overcast.fm^
+
+
+# ============================================================
+# 11. AUDIO Y CONTENIDO ADICIONAL
+# ============================================================
+
+# Mixcloud
+||mixcloud.com^
+
+# Audiolibros
+||audible.com^
+||audible.es^
+
+# Libros y audio
+||storytel.com^
+||scribd.com^
+
+
+# ============================================================
+# 12. TV, PELÍCULAS Y STREAMING GRATUITO
+# ============================================================
+
+||plex.tv^
+
+||crunchyroll.com^
+||funimation.com^
+
+||pluto.tv^
+||tubitv.com^
+||rakuten.tv^
+
+||mubi.com^
+||curiositystream.com^
+
+||peacocktv.com^
+||paramountplus.com^
+
+
+# ============================================================
+# 13. OTRAS PLATAFORMAS DE VIDEO
+# ============================================================
+
+||odysee.com^
+||lbry.tv^
+
+||veoh.com^
+
+||vkvideo.ru^
+||vk.com^
