@@ -1,0 +1,102 @@
+! ============================================================
+! 🚫 VIDEO / STREAMING — COLEGIO PERÚ
+! ADGUARD DNS
+! 49 BLOQUEOS REALES
+! ============================================================
+! Sin música
+! Sin Spotify
+! Sin podcasts
+! Sin radio
+! Sin plataformas poco utilizadas
+! Sin CDN generales que puedan romper páginas educativas
+! ============================================================
+
+
+! ============================================================
+! YOUTUBE — BLOQUEO FUERTE
+! ============================================================
+
+||youtube.com^
+||youtu.be^
+||youtube-nocookie.com^
+||youtubei.googleapis.com^
+||youtube.googleapis.com^
+||youtubeembeddedplayer.googleapis.com^
+||googlevideo.com^
+||ytimg.com^
+||yt3.ggpht.com^
+
+
+! ============================================================
+! TIKTOK — MUY IMPORTANTE
+! ============================================================
+
+||tiktok.com^
+||tiktokcdn.com^
+||tiktokv.com^
+
+
+! ============================================================
+! STREAMING / VIDEO GRATUITO
+! ============================================================
+
+||twitch.tv^
+||ttvnw.net^
+||jtvnw.net^
+||kick.com^
+||kick-video.live^
+||vimeo.com^
+||dailymotion.com^
+||bilibili.com^
+||bilibili.tv^
+||rumble.com^
+||odysee.com^
+
+
+! ============================================================
+! PLATAFORMAS DE PAGO
+! SOLO WEB PRINCIPAL
+! ============================================================
+
+||netflix.com^
+||disneyplus.com^
+||primevideo.com^
+||max.com^
+||paramountplus.com^
+||crunchyroll.com^
+||vix.com^
+||clarovideo.com^
+||pluto.tv^
+||tubitv.com^
+
+
+! ============================================================
+! PELÍCULAS / SERIES GRATUITAS
+! RELEVANTES EN PERÚ
+! ============================================================
+
+||cuevana3.to^
+||cuevana3.gs^
+||cuevana3.sc^
+||cue-vana3.legal^
+||doramasflix.co^
+||cinecalidad.rs^
+||lamovie.org^
+||playimdb.com^
+||tbxnet.com^
+||zonaaps.com^
+
+
+! ============================================================
+! ANIME
+! ============================================================
+
+||animeonline.ninja^
+||animeflv.net^
+||animeflv.ar^
+||seriesdonghua.com^
+||animed23.com^
+||zonarutoppuden.net^
+||jkanime.com^
+||jkanime.net^
+||tioanime.com^
